@@ -1,4 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/siaverse/siaverse.r-universe.dev
 	branch = HEAD
+[submodule "EduTestItemAnalysis"]
+	path = EduTestItemAnalysis
+	url = https://github.com/siaverse/EduTestItemAnalysis
+[submodule "EduTestTextAnalysis"]
+	path = EduTestTextAnalysis
+	url = https://github.com/siaverse/EduTestTextAnalysis
+[submodule "IRR2FPR"]
+	path = IRR2FPR
+	url = https://github.com/siaverse/IRR2FPR
+[submodule "SIAmodules"]
+	path = SIAmodules
+	url = https://github.com/siaverse/SIAmodules
