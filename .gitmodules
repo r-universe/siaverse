@@ -14,3 +14,6 @@
 [submodule "SIAmodules"]
 	path = SIAmodules
 	url = https://github.com/siaverse/SIAmodules
+[submodule "SIAtools"]
+	path = SIAtools
+	url = https://github.com/siaverse/SIAtools
